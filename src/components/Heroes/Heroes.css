@@ -1,0 +1,44 @@
+.btnBack {
+  background-color: #6ddccf;
+  border: 0.1rem solid #6ddccf;
+}
+
+.card-container {
+  transform: scale(1);
+  border: 0.1rem solid #6ddccf;
+}
+
+.card-container:hover {
+  transform: scale(1.03);
+}
+
+.img {
+  position: relative;
+  height: 100%;
+}
+
+.publisher {
+  font-weight: bold;
+}
+
+.link:hover {
+  text-decoration: none;
+}
+
+.list {
+  font-size: small;
+  border-bottom: 0.1rem solid gray;
+}
+
+.list strong {
+  margin-right: 0.5rem;
+}
+
+.info {
+  font-size: x-large;
+}
+
+.info div {
+  margin-left: 1rem;
+  margin-bottom: 2rem;
+}

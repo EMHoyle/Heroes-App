@@ -1,0 +1,12 @@
+.dividerContainer {
+  background-color: rgba(166, 99, 204, 1) !important;
+  border: 1px solid !important;
+  box-shadow: 0.125rem 0.125rem 0.31rem rgba(0, 0, 0, 1) !important;
+  height: 1px !important;
+  margin: 1rem 0 3rem 0 !important;
+}
+
+.title {
+  color: rgba(114, 239, 221, 1);
+  margin-top: 1rem;
+}

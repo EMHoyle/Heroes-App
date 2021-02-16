@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Stalinist+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@500&display=swap');
+
+body {
+  background-color: #222 !important;
+}
+.button:hover {
+  color: rgba(166, 99, 204, 1) !important;
+  background-color: rgba(114, 239, 221, 1) !important;
+  font-size: 1rem !important;
+  font-weight: bolder !important;
+  transition: all 0.5s !important;
+}
+
+.button {
+  color: rgba(0, 0, 0, 1) !important;
+  background-color: rgba(114, 239, 221, 0.5) !important;
+  transition: all 0.5s !important;
+}
+
+.container {
+  margin-top: 10rem;
+}
+
+.form {
+  width: '100%';
+  margin-top: 16px;
+}
+
+.input {
+  color: rgba(114, 239, 221, 1) !important;
+}
+
+.paper {
+  margin: 32px;
+  display: 'flex';
+  flex-direction: 'column';
+  align-items: 'center';
+}
+
+.remember {
+  color: rgba(166, 99, 204, 1) !important;
+}
+
+.subtitle {
+  color: rgba(166, 99, 204, 1);
+  font-family: 'Inconsolata', monospace;
+  font-size: 2rem;
+  text-align: center;
+}
+
+.title {
+  font-family: 'Stalinist One', cursive;
+  font-size: 2.8rem;
+  text-align: center;
+  background: -webkit-linear-gradient(
+    rgba(114, 239, 221, 1),
+    rgba(166, 99, 204, 1)
+  );
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
