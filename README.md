@@ -16,6 +16,7 @@ This is a medium app made with React, to demonstrate some advance functions.
 - LocalStorage
 - React Router DOM
 - Route Protection
+- Responsive
 - CSS
 - and more...
 
